@@ -26395,10 +26395,10 @@
                                                         name: "javaScript",
                                                     },
                                                     {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210501305-35907fe5-ffb0-4feb-ab44-cff59dabc865.svg",
+                                                        img: "https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg",
                                                         animate: "fade-down",
                                                         content: "Used for State Manegement",
-                                                        name: "Redux",
+                                                        name: "AWS",
                                                     },
                                                     {
                                                         img: "https://user-images.githubusercontent.com/80110392/210502706-9c859b39-3d3b-4a09-8676-f466af060b6c.svg",
@@ -26458,17 +26458,17 @@
                                                         name: "Figma",
                                                     },
                                                     {
-                                                        img: "https://user-images.githubusercontent.com/80110392/215558264-4d43f9d9-ba83-484e-8db2-c39e7153aca8.svg",
+                                                        img: "https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg",
                                                         animate: "fade-down",
                                                         content: "Used in Building Some of my Projects",
-                                                        name: "Next JS",
+                                                        name: "Redis",
                                                     },
                                                     {
-                                                        img: "https://user-images.githubusercontent.com/80110392/215560746-56d7806f-0fc6-4b5a-b146-1da4634d483a.png",
+                                                        img: "https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg",
                                                         animate: "fade-up",
                                                         content:
-                                                            "Used Cypress Testing Library To test Code",
-                                                        name: "Cypress",
+                                                            "Used gitHub Pushing the Codes in repository",
+                                                        name: "Github",
                                                     },
                                                     {
                                                         img: "https://user-images.githubusercontent.com/80110392/212755675-e84111db-edb8-4822-867d-510f2e200836.svg",
@@ -26483,11 +26483,11 @@
                                                         name: "NPM",
                                                     },
                                                     {
-                                                        img: "https://user-images.githubusercontent.com/80110392/215564304-cccfe7c4-e2b5-479e-addb-4d887f34f27b.png",
+                                                        img: "https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg",
                                                         animate: "fade-down",
                                                         content:
-                                                            "Used Chakra Comopnents in Various Projects",
-                                                        name: "Chakra UI",
+                                                            "Used MY-SQL Comopnents in Various Projects",
+                                                        name: "My-SQL",
                                                     },
                                                 ].map(function (e, t) {
                                                     return (0, m.jsx)(C, { data: e }, t);
@@ -26514,47 +26514,45 @@
                 A = n.p + "static/media/mail_mob.9f9fe043737d406827b4.gif",
                 Y = [
                     {
-                        name: "Instabyte",
+                        name: "Famaous FootWear",
                         dskImg: n.p + "static/media/insta_dsk.c47a36538d4548b85ed2.gif",
                         mobImg: n.p + "static/media/insta_mob.cb591cec37836e6e4edb.gif",
-                        website: "https://instabyte.vercel.app/",
-                        github: "https://github.com/daljeet-coder/instabyte",
+                        website: "https://boisterous-manatee-17c997.netlify.app/",
+                        github: "https://github.com/Shashwat2104/famousfootwaear",
                         features: [
-                            "Instabyte is a Social Media application",
-                            "A group Project of 2 developers",
-                            "Completed in 30 days approx",
-                            "Built Using Next.js and TypeScript",
-                            "Used NextAPI, Tailwind, Mongoose, MongoDB",
+                            "Famous FootWear is a E-commerse Website",
+                            "A Individual Project completed in 5 days",
+                            "Built Using HTML , CSS and Javascript",
+
                         ],
                         tackstack: [
-                            "Next.js",
-                            "TypeScript",
-                            "Tailwind CSS",
-                            "Redux",
-                            "Firebase",
+                            "HTML",
+                            "CSS",
+                            "Javascript",
+
                         ],
                     },
                     {
-                        name: "Virtual-Shop",
+                        name: "BudgetBuddy",
                         dskImg: M,
                         mobImg: N,
-                        website: "https://minishop-nine.vercel.app/",
-                        github: "https://github.com/Sachin1yadav/verdant-plastic-2769",
+                        website: "https://beautiful-bonbon-06d31f.netlify.app/index.html",
+                        github: "https://github.com/Shashwat2104/filthy-cemetery-1257",
                         features: [
-                            "Virtual-shop-an E-commerce-website, where a user can shop for various Products",
+                            "BudgetBuddy is a real-time budget application that allows users to track their expenses and income in real-time",
                             "A group Project of 5 developers",
                             "Completed in 5 days",
-                            "Used React for development",
-                            "Used Chakra UI, Scss, Css for Designing",
+                            "Used HTML ,CSS, Javascript for development",
+                            "Used Bootstrap UI, Css for Designing",
                             "Contributed in managing Backend and Admin pannel",
                         ],
                         tackstack: [
-                            "CSS3",
-                            "SCSS",
-                            "ReactJS",
-                            "ChakraUI",
-                            "Redux",
-                            "Firebase",
+                            "HTML",
+                            "CSS",
+                            "Javascript",
+                            "MongoBB",
+                            "Redis",
+                            "Node.js",
                         ],
                     },
                     {
@@ -27135,7 +27133,7 @@
                                 (0, m.jsxs)("a", {
                                     target: "_blank",
                                     rel: "noreferrer",
-                                    href: "https://www.linkedin.com/in/daljeet-singh-61250723a",
+                                    href: "https://www.linkedin.com/in/shashwat-mahendra-214598163/",
                                     children: [
                                         (0, m.jsx)(J, {
                                             className: "mx-4 text-3xl cursor-pointer",
@@ -27144,7 +27142,7 @@
                                     ],
                                 }),
                                 (0, m.jsx)("a", {
-                                    href: "https://github.com/daljeet-coder",
+                                    href: "https://github.com/Shashwat2104",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, m.jsx)(te, {
@@ -27152,7 +27150,7 @@
                                     }),
                                 }),
                                 (0, m.jsx)("a", {
-                                    href: "https://twitter.com/D_s_champ",
+                                    href: "https://twitter.com",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, m.jsx)(ee, {
@@ -27160,7 +27158,7 @@
                                     }),
                                 }),
                                 (0, m.jsx)("a", {
-                                    href: "https://api.whatsapp.com/send?phone=8954379385&text=hey,%20thanks%20for%20your%20message.%20I%20will%20get%20back%20to%20you%20ASAP",
+                                    href: "https://api.whatsapp.com/send?phone=7050130721&text=hey,%20thanks%20for%20your%20message.%20I%20will%20get%20back%20to%20you%20ASAP",
                                     target: "_blank",
                                     rel: "noreferrer",
                                     children: (0, m.jsx)(Z, {
@@ -27307,8 +27305,8 @@
                                             className:
                                                 "m-auto border-2 border-gray-600 bg-gradf/40 rounded-xl",
                                             children: (0, m.jsx)("img", {
-                                                src: "https://github-readme-stats.vercel.app/api?username=daljeet-coder&show_icons=true&theme=transparent&hide_border=true&locale=en",
-                                                alt: "Shashwat-coder",
+                                                src: "https://github-readme-stats.vercel.app/api?username=Shashwat2104&show_icons=true&theme=transparent&hide_border=true&locale=en",
+                                                alt: "Shashwat2104 ",
                                             }),
                                         }),
                                         (0, m.jsx)("div", {
@@ -27320,7 +27318,7 @@
                                             className:
                                                 "m-auto border-2 border-gray-600 bg-gradf/40 rounded-xl my-10",
                                             children: (0, m.jsx)("img", {
-                                                src: "https://github-readme-streak-stats.herokuapp.com?user=daljeet-coder&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats",
+                                                src: "https://github-readme-streak-stats.herokuapp.com?user=Shashwat2104&theme=tokyonight_duo&hide_border=true&border_radius=0)](https://git.io/streak-stats",
                                             }),
                                         }),
                                     ],
@@ -27335,8 +27333,8 @@
                                         "m-auto py-6 md:w-1/2 border-2 border-gray-600 bg-gradf/40 rounded-xl mb-10",
                                     children: (0, m.jsx)("img", {
                                         className: "m-auto",
-                                        src: "https://github-readme-stats.vercel.app/api/top-langs?username=daljeet-coder&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact",
-                                        alt: "daljeet-coder",
+                                        src: "https://github-readme-stats.vercel.app/api/top-langs?username=Shashwat2104&show_icons=true&theme=transparent&hide_border=true&locale=en&layout=compact",
+                                        alt: "Shashwat2104",
                                     }),
                                 }),
                                 (0, m.jsx)("div", {
@@ -27347,7 +27345,7 @@
                                         "m-auto bg-gradf/40 border-2 text-center border-gray-600 rounded-xl my-10",
                                     children: (0, m.jsx)(ie.ZP, {
                                         style: { margin: "20px auto" },
-                                        username: "daljeet-coder",
+                                        username: "Shashwat2104",
                                         color: "green",
                                         hideColorLegend: !0,
                                         blockSize: 16,

@@ -26291,345 +26291,349 @@
                 _ = n(7945),
                 j = n.n(_);
             var T =
-                n.p + "static/media/underline.2cd2b456d64b709dfdab6eb84d36d080.svg",
-                C = function (e) {
-                    var t = e.data;
-                    return (0, m.jsxs)("div", {
-                        "data-aos": t.animate,
-                        "data-aos-offset": "200",
-                        "data-aos-delay": "50",
-                        "data-aos-duration": "1000",
-                        "data-aos-easing": "ease-in-out",
-                        className:
-                            "card flex items-center p-3 justify-center bg-darkbg/60 md:w-40 md:h-40 h-28 w-28 cursor-pointer rounded-xl",
-                        children: [
-                            (0, m.jsx)("img", {
-                                className:
-                                    "md:w-20 md:h-20 w-16 h-16 img duration-200 absolute",
-                                src: t.img,
-                                alt: "",
+                n.p +
+                "static/media/underline.2cd2b456d64b709dfdab6eb84d36d080.svg",
+              C = function (e) {
+                var t = e.data;
+                return (0, m.jsxs)("div", {
+                  "data-aos": t.animate,
+                  "data-aos-offset": "200",
+                  "data-aos-delay": "50",
+                  "data-aos-duration": "1000",
+                  "data-aos-easing": "ease-in-out",
+                  className:
+                    "card flex items-center p-3 justify-center bg-darkbg/60 md:w-40 md:h-40 h-28 w-28 cursor-pointer rounded-xl",
+                  children: [
+                    (0, m.jsx)("img", {
+                      className:
+                        "md:w-20 md:h-20 w-16 h-16 img duration-200 absolute",
+                      src: t.img,
+                      alt: "",
+                    }),
+                    (0, m.jsxs)("div", {
+                      className: "textBox z-10 opacity-0 hover:opacity-1",
+                      children: [
+                        (0, m.jsx)("p", {
+                          className: "text font-bold",
+                          children: t.name,
+                        }),
+                        (0, m.jsx)("p", {
+                          className: "text-sm ",
+                          children: t.content,
+                        }),
+                      ],
+                    }),
+                  ],
+                });
+              },
+              E = function () {
+                return (0, m.jsxs)("div", {
+                  id: "skills",
+                  className:
+                    " w-full md:w-5/6 mt-20 md:mt-10 m-auto text-center py-6",
+                  children: [
+                    (0, m.jsxs)("div", {
+                      "data-aos": "fade-up",
+                      "data-aos-offset": "200",
+                      "data-aos-delay": "50",
+                      "data-aos-duration": "1000",
+                      "data-aos-easing": "ease-in-out",
+                      className: "w-fit m-auto px-8 mb-6",
+                      children: [
+                        (0, m.jsx)("h1", {
+                          className: "mb-2 text-4xl",
+                          children: "My Skills",
+                        }),
+                        (0, m.jsx)("div", {
+                          className: "",
+                          children: (0, m.jsx)("img", {
+                            src: T,
+                            alt: "",
+                            className: "",
+                          }),
+                        }),
+                      ],
+                    }),
+                    (0, m.jsxs)("div", {
+                      className: "relative ",
+                      children: [
+                        (0, m.jsx)("div", {
+                          className:
+                            "w-80 h-80 absolute top-[-5rem] z-0 md:left-[-5rem] rounded-full bg-gradient-to-r from-grads/30 to-gradf/30 blur-3xl",
+                        }),
+                        (0, m.jsx)("div", {
+                          className:
+                            "w-80 h-80 absolute bottom-[-5rem] z-0 md:right-[-5rem] rounded-full bg-gradient-to-r from-gradf/20 to-grads/30 blur-3xl",
+                        }),
+                        (0, m.jsxs)("div", {
+                          className: "bg-lightbg p-10 z-10 rounded-2xl",
+                          children: [
+                            (0, m.jsx)("h3", {
+                              className:
+                                "mb-8 border-b-2 w-fit ml-10 px-2 rounded-md",
+                              children: "Language & Tools :",
                             }),
-                            (0, m.jsxs)("div", {
-                                className: "textBox z-10 opacity-0 hover:opacity-1",
-                                children: [
-                                    (0, m.jsx)("p", {
-                                        className: "text font-bold",
-                                        children: t.name,
-                                    }),
-                                    (0, m.jsx)("p", {
-                                        className: "text-sm ",
-                                        children: t.content,
-                                    }),
-                                ],
+                            (0, m.jsx)("div", {
+                              className:
+                                "grid md:grid-cols-3 lg:grid-cols-4 grid-cols-2 sm:grid-cols-3 gap-y-8 gap-x-5",
+                              children: [
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210499593-ca8b2ba2-c9c1-40d9-b358-a99e3ab2b4bc.svg",
+                                  animate: "fade-up",
+                                  content: "Build Over 50 various Porjects",
+                                  name: "HTML5",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210498458-d17c5a52-f76d-4f2e-b00e-fe52dca02313.svg",
+                                  animate: "fade-down",
+                                  content: "Used in all Porjects",
+                                  name: "CSS3",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210498475-7c5470b5-9ac0-49fc-a086-100f5abf8733.svg",
+                                  animate: "fade-up",
+                                  content: "over 1500+ hours Practice in",
+                                  name: "javaScript",
+                                },
+                                {
+                                  img: "https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg",
+                                  animate: "fade-down",
+                                  content: "Used for State Manegement",
+                                  name: "AWS",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210502706-9c859b39-3d3b-4a09-8676-f466af060b6c.svg",
+                                  animate: "fade-up",
+                                  content:
+                                    "Used for Data-Base in Backend Projects",
+                                  name: "MongoDB",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/212751832-e5077340-d488-4a5c-bcd0-6e0e2dde1c4c.svg",
+                                  animate: "fade-down",
+                                  content: "Used for Building Backend Projects",
+                                  name: "Express JS",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210498509-583509e4-6fba-44c5-9c62-2550b3c03a1e.svg",
+                                  animate: "fade-up",
+                                  content:
+                                    "Used React for building Most of my Projects",
+                                  name: "React JS",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210502766-3387da2b-a991-4858-b206-d65a83732f12.svg",
+                                  animate: "fade-down",
+                                  content: "Used in My Backend Projects",
+                                  name: "Node JS",
+                                },
+                              ].map(function (e, t) {
+                                return (0, m.jsx)(C, { data: e }, t);
+                              }),
                             }),
-                        ],
-                    });
+                            (0, m.jsx)("h3", {
+                              className:
+                                "my-8 border-b-2 w-fit ml-20 px-2 rounded-md",
+                              children: "Other Tools :",
+                            }),
+                            (0, m.jsx)("div", {
+                              className:
+                                "grid md:grid-cols-3 lg:grid-cols-4 grid-cols-2 gap-y-8 gap-x-5",
+                              children: [
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210502839-ba898ed3-d33a-4b01-a554-15e3d25c9b9d.svg",
+                                  animate: "fade-up",
+                                  content: "Used in most of my Projects",
+                                  name: "tailwind CSS",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210503032-817da1a7-f7c8-4d59-b6c0-6a7e5270ca38.svg",
+                                  animate: "fade-down",
+                                  content:
+                                    "Build Some of my Projects using typescript",
+                                  name: "typeScript",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/210502569-a5c19368-14c3-473b-829c-fbb050b42f4e.svg",
+                                  animate: "fade-up",
+                                  content:
+                                    "Used Figma For Designing UI of Projects",
+                                  name: "Figma",
+                                },
+                                {
+                                  img: "https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg",
+                                  animate: "fade-down",
+                                  content:
+                                    "Used in Building Some of my Projects",
+                                  name: "Redis",
+                                },
+                                {
+                                  img: "https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg",
+                                  animate: "fade-up",
+                                  content:
+                                    "Used gitHub Pushing the Codes in repository",
+                                  name: "Github",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/212755675-e84111db-edb8-4822-867d-510f2e200836.svg",
+                                  animate: "fade-down",
+                                  content:
+                                    "Confident in VS-Code for Writing Code",
+                                  name: "VS Code",
+                                },
+                                {
+                                  img: "https://user-images.githubusercontent.com/80110392/212755766-c018bee3-35ca-448c-82de-66903a42e042.svg",
+                                  animate: "fade-up",
+                                  content: "Used npm for managing packeges",
+                                  name: "NPM",
+                                },
+                                {
+                                  img: "https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg",
+                                  animate: "fade-down",
+                                  content:
+                                    "Used MY-SQL Comopnents in Various Projects",
+                                  name: "My-SQL",
+                                },
+                              ].map(function (e, t) {
+                                return (0, m.jsx)(C, { data: e }, t);
+                              }),
+                            }),
+                          ],
+                        }),
+                      ],
+                    }),
+                  ],
+                });
+              },
+              P = n.p + "static/media/clt_dsk.adbb2be3332e98a85bf6.gif",
+              M = n.p + "static/media/vs_dsk.a5238fca3103ac6f068b.gif",
+              N = n.p + "static/media/vs_mob.3ef0f546dea78acd1006.gif",
+              D = n.p + "static/media/clt_mob.f5b13c9667b5975dc07c.gif",
+              R = n.p + "static/media/dp_dsk.2c3d4914dee00a364585.gif",
+              I = n.p + "static/media/dp_mob.dd6de587d404ecf14967.gif",
+              z = n.p + "static/media/eng_dsk.a98ad401834c4046c314.gif",
+              L = n.p + "static/media/eng_mob.8bf51948e32feb2521ae.gif",
+              F = n.p + "static/media/hot_dsk.3b7e7c38af8cc175577e.gif",
+              H = n.p + "static/media/hot_mob.ef992e382eed08b3336c.gif",
+              U = n.p + "static/media/mail_dsk.fab09da77e58d5c96128.gif",
+              A = n.p + "static/media/mail_mob.9f9fe043737d406827b4.gif",
+              Y = [
+                {
+                  name: "Famaous FootWear",
+                  dskImg:
+                    n.p + "static/media/insta_dsk.c47a36538d4548b85ed2.gif",
+                  mobImg:
+                    n.p + "static/media/insta_mob.cb591cec37836e6e4edb.gif",
+                  website: "https://boisterous-manatee-17c997.netlify.app/",
+                  github: "https://github.com/Shashwat2104/famousfootwaear",
+                  features: [
+                    "Famous FootWear is a E-commerse Website",
+                    "A Individual Project completed in 5 days",
+                    "Built Using HTML , CSS and Javascript",
+                  ],
+                  tackstack: ["HTML", "CSS", "Javascript"],
                 },
-                E = function () {
-                    return (0, m.jsxs)("div", {
-                        id: "skills",
-                        className:
-                            " w-full md:w-5/6 mt-20 md:mt-10 m-auto text-center py-6",
-                        children: [
-                            (0, m.jsxs)("div", {
-                                "data-aos": "fade-up",
-                                "data-aos-offset": "200",
-                                "data-aos-delay": "50",
-                                "data-aos-duration": "1000",
-                                "data-aos-easing": "ease-in-out",
-                                className: "w-fit m-auto px-8 mb-6",
-                                children: [
-                                    (0, m.jsx)("h1", {
-                                        className: "mb-2 text-4xl",
-                                        children: "My Skills",
-                                    }),
-                                    (0, m.jsx)("div", {
-                                        className: "",
-                                        children: (0, m.jsx)("img", {
-                                            src: T,
-                                            alt: "",
-                                            className: "",
-                                        }),
-                                    }),
-                                ],
-                            }),
-                            (0, m.jsxs)("div", {
-                                className: "relative ",
-                                children: [
-                                    (0, m.jsx)("div", {
-                                        className:
-                                            "w-80 h-80 absolute top-[-5rem] z-0 md:left-[-5rem] rounded-full bg-gradient-to-r from-grads/30 to-gradf/30 blur-3xl",
-                                    }),
-                                    (0, m.jsx)("div", {
-                                        className:
-                                            "w-80 h-80 absolute bottom-[-5rem] z-0 md:right-[-5rem] rounded-full bg-gradient-to-r from-gradf/20 to-grads/30 blur-3xl",
-                                    }),
-                                    (0, m.jsxs)("div", {
-                                        className: "bg-lightbg p-10 z-10 rounded-2xl",
-                                        children: [
-                                            (0, m.jsx)("h3", {
-                                                className:
-                                                    "mb-8 border-b-2 w-fit ml-10 px-2 rounded-md",
-                                                children: "Language & Tools :",
-                                            }),
-                                            (0, m.jsx)("div", {
-                                                className:
-                                                    "grid md:grid-cols-3 lg:grid-cols-4 grid-cols-2 sm:grid-cols-3 gap-y-8 gap-x-5",
-                                                children: [
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210499593-ca8b2ba2-c9c1-40d9-b358-a99e3ab2b4bc.svg",
-                                                        animate: "fade-up",
-                                                        content: "Build Over 50 various Porjects",
-                                                        name: "HTML5",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210498458-d17c5a52-f76d-4f2e-b00e-fe52dca02313.svg",
-                                                        animate: "fade-down",
-                                                        content: "Used in all Porjects",
-                                                        name: "CSS3",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210498475-7c5470b5-9ac0-49fc-a086-100f5abf8733.svg",
-                                                        animate: "fade-up",
-                                                        content: "over 1500+ hours Practice in",
-                                                        name: "javaScript",
-                                                    },
-                                                    {
-                                                        img: "https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg",
-                                                        animate: "fade-down",
-                                                        content: "Used for State Manegement",
-                                                        name: "AWS",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210502706-9c859b39-3d3b-4a09-8676-f466af060b6c.svg",
-                                                        animate: "fade-up",
-                                                        content: "Used for Data-Base in Backend Projects",
-                                                        name: "MongoDB",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/212751832-e5077340-d488-4a5c-bcd0-6e0e2dde1c4c.svg",
-                                                        animate: "fade-down",
-                                                        content: "Used for Building Backend Projects",
-                                                        name: "Express JS",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210498509-583509e4-6fba-44c5-9c62-2550b3c03a1e.svg",
-                                                        animate: "fade-up",
-                                                        content:
-                                                            "Used React for building Most of my Projects",
-                                                        name: "React JS",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210502766-3387da2b-a991-4858-b206-d65a83732f12.svg",
-                                                        animate: "fade-down",
-                                                        content: "Used in My Backend Projects",
-                                                        name: "Node JS",
-                                                    },
-                                                ].map(function (e, t) {
-                                                    return (0, m.jsx)(C, { data: e }, t);
-                                                }),
-                                            }),
-                                            (0, m.jsx)("h3", {
-                                                className:
-                                                    "my-8 border-b-2 w-fit ml-20 px-2 rounded-md",
-                                                children: "Other Tools :",
-                                            }),
-                                            (0, m.jsx)("div", {
-                                                className:
-                                                    "grid md:grid-cols-3 lg:grid-cols-4 grid-cols-2 gap-y-8 gap-x-5",
-                                                children: [
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210502839-ba898ed3-d33a-4b01-a554-15e3d25c9b9d.svg",
-                                                        animate: "fade-up",
-                                                        content: "Used in most of my Projects",
-                                                        name: "tailwind CSS",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210503032-817da1a7-f7c8-4d59-b6c0-6a7e5270ca38.svg",
-                                                        animate: "fade-down",
-                                                        content:
-                                                            "Build Some of my Projects using typescript",
-                                                        name: "typeScript",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/210502569-a5c19368-14c3-473b-829c-fbb050b42f4e.svg",
-                                                        animate: "fade-up",
-                                                        content: "Used Figma For Designing UI of Projects",
-                                                        name: "Figma",
-                                                    },
-                                                    {
-                                                        img: "https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg",
-                                                        animate: "fade-down",
-                                                        content: "Used in Building Some of my Projects",
-                                                        name: "Redis",
-                                                    },
-                                                    {
-                                                        img: "https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg",
-                                                        animate: "fade-up",
-                                                        content:
-                                                            "Used gitHub Pushing the Codes in repository",
-                                                        name: "Github",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/212755675-e84111db-edb8-4822-867d-510f2e200836.svg",
-                                                        animate: "fade-down",
-                                                        content: "Confident in VS-Code for Writing Code",
-                                                        name: "VS Code",
-                                                    },
-                                                    {
-                                                        img: "https://user-images.githubusercontent.com/80110392/212755766-c018bee3-35ca-448c-82de-66903a42e042.svg",
-                                                        animate: "fade-up",
-                                                        content: "Used npm for managing packeges",
-                                                        name: "NPM",
-                                                    },
-                                                    {
-                                                        img: "https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg",
-                                                        animate: "fade-down",
-                                                        content:
-                                                            "Used MY-SQL Comopnents in Various Projects",
-                                                        name: "My-SQL",
-                                                    },
-                                                ].map(function (e, t) {
-                                                    return (0, m.jsx)(C, { data: e }, t);
-                                                }),
-                                            }),
-                                        ],
-                                    }),
-                                ],
-                            }),
-                        ],
-                    });
+                {
+                  name: "BudgetBuddy",
+                  dskImg: M,
+                  mobImg: N,
+                  website:
+                    "https://beautiful-bonbon-06d31f.netlify.app/index.html",
+                  github:
+                    "https://github.com/Shashwat2104/filthy-cemetery-1257",
+                  features: [
+                    "BudgetBuddy is a real-time budget application that allows users to track their expenses and income in real-time",
+                    "A group Project of 5 developers",
+                    "Completed in 5 days",
+                    "Used HTML ,CSS, Javascript for development",
+                    "Used Bootstrap UI, Css for Designing",
+                    "Contributed in managing Backend and Admin pannel",
+                  ],
+                  tackstack: [
+                    "HTML",
+                    "CSS",
+                    "Javascript",
+                    "MongoBB",
+                    "Redis",
+                    "Node.js",
+                  ],
                 },
-                P = n.p + "static/media/clt_dsk.adbb2be3332e98a85bf6.gif",
-                M = n.p + "static/media/vs_dsk.a5238fca3103ac6f068b.gif",
-                N = n.p + "static/media/vs_mob.3ef0f546dea78acd1006.gif",
-                D = n.p + "static/media/clt_mob.f5b13c9667b5975dc07c.gif",
-                R = n.p + "static/media/dp_dsk.2c3d4914dee00a364585.gif",
-                I = n.p + "static/media/dp_mob.dd6de587d404ecf14967.gif",
-                z = n.p + "static/media/eng_dsk.a98ad401834c4046c314.gif",
-                L = n.p + "static/media/eng_mob.8bf51948e32feb2521ae.gif",
-                F = n.p + "static/media/hot_dsk.3b7e7c38af8cc175577e.gif",
-                H = n.p + "static/media/hot_mob.ef992e382eed08b3336c.gif",
-                U = n.p + "static/media/mail_dsk.fab09da77e58d5c96128.gif",
-                A = n.p + "static/media/mail_mob.9f9fe043737d406827b4.gif",
-                Y = [
-                    {
-                        name: "Famaous FootWear",
-                        dskImg: n.p + "static/media/insta_dsk.c47a36538d4548b85ed2.gif",
-                        mobImg: n.p + "static/media/insta_mob.cb591cec37836e6e4edb.gif",
-                        website: "https://boisterous-manatee-17c997.netlify.app/",
-                        github: "https://github.com/Shashwat2104/famousfootwaear",
-                        features: [
-                            "Famous FootWear is a E-commerse Website",
-                            "A Individual Project completed in 5 days",
-                            "Built Using HTML , CSS and Javascript",
-
-                        ],
-                        tackstack: [
-                            "HTML",
-                            "CSS",
-                            "Javascript",
-
-                        ],
-                    },
-                    {
-                        name: "BudgetBuddy",
-                        dskImg: M,
-                        mobImg: N,
-                        website: "https://beautiful-bonbon-06d31f.netlify.app/index.html",
-                        github: "https://github.com/Shashwat2104/filthy-cemetery-1257",
-                        features: [
-                            "BudgetBuddy is a real-time budget application that allows users to track their expenses and income in real-time",
-                            "A group Project of 5 developers",
-                            "Completed in 5 days",
-                            "Used HTML ,CSS, Javascript for development",
-                            "Used Bootstrap UI, Css for Designing",
-                            "Contributed in managing Backend and Admin pannel",
-                        ],
-                        tackstack: [
-                            "HTML",
-                            "CSS",
-                            "Javascript",
-                            "MongoBB",
-                            "Redis",
-                            "Node.js",
-                        ],
-                    },
-                    // {
-                    //     name: "Cult Fit - Clone",
-                    //     dskImg: P,
-                    //     mobImg: D,
-                    //     website: "https://getfitt-22qn418r6-daljeet-coder.vercel.app/",
-                    //     github: "https://github.com/daljeet-coder/getFit.com-Clone",
-                    //     features: [
-                    //         "Cultfit- a website which deals in zym and fitness",
-                    //         "Individual Project",
-                    //         "Completed in 5 days",
-                    //         "Used React for development",
-                    //         "Used Chakra UI for Designing",
-                    //     ],
-                    //     tackstack: ["ReactJS", "JSON", "ChakraUI", "glitch"],
-                    // },
-                    // {
-                    //     name: "DP-dzines.com",
-                    //     dskImg: R,
-                    //     mobImg: I,
-                    //     github: "https://github.com/daljeet-coder/dpdzines.com",
-                    //     website: "https://dpdzines-com.vercel.app/#home",
-                    //     features: [
-                    //         "DP-dzines Provides Home interior Decoration Services",
-                    //         "Individual Project",
-                    //         "Completed in 15 days approx",
-                    //         "Used React for development",
-                    //         "Used CSS and Other Libraryes for Designing",
-                    //     ],
-                    //     tackstack: ["ReactJS", "CSS3", "npm"],
-                    // },
-                    // {
-                    //     name: "Engagebay - Clone",
-                    //     dskImg: z,
-                    //     mobImg: L,
-                    //     website: "https://gleeful-praline-8d6d79.netlify.app/",
-                    //     github: "https://github.com/daljeet-coder/Engagebay-clone",
-                    //     features: [
-                    //         "Engagebay.com - A Website which Provides solutions for managing and marketing Businesses",
-                    //         "Group Project of Team 4 Developers",
-                    //         "Completed in 5 days",
-                    //         "Used HTML CSS and Javascript for the Development",
-                    //         "Used json rest api for Data",
-                    //     ],
-                    //     tackstack: ["HTML5", "CSS3", "JavaScript"],
-                    // },
-                    // {
-                    //     name: "HotStar - Clone",
-                    //     dskImg: F,
-                    //     mobImg: H,
-                    //     website: "https://ornate-kleicha-56c2f7.netlify.app/",
-                    //     github: "https://github.com/daljeet-coder/hotstar-clone",
-                    //     features: [
-                    //         "Hotstar-clone - In this website we can search for the Movies and their details",
-                    //         "Individual Project",
-                    //         "Completed in 4 days",
-                    //         "Used HTML, CSS and JavaScript",
-                    //         "Used Movie API and debouncing",
-                    //     ],
-                    //     tackstack: ["HTML5", "CSS3", "JavaScript"],
-                    // },
-                    // {
-                    //     name: "MailChimp - Clone",
-                    //     dskImg: U,
-                    //     mobImg: A,
-                    //     website: "https://melodic-pastelito-61a38c.netlify.app/",
-                    //     github: "https://github.com/daljeet-coder/mailchimp.com-Clone",
-                    //     features: [
-                    //         "MailChimp Provides various web Services, web hosting and much more",
-                    //         "Individual Project",
-                    //         "Completed in 5 days",
-                    //         "Used HTML, CSS, ans JavaScript",
-                    //     ],
-                    //     tackstack: ["HTML5", "CSS3", "JavaScript"],
-                    // },
-                ];
+                {
+                    name: "Pic Perfect",
+                    dskImg: P,
+                    mobImg: D,
+                    website: "https://64933664953b520617791aab--bucolic-semifreddo-7f7d1e.netlify.app/",
+                    github: "https://github.com/Shashwat2104/true-mine-3269",
+                    features: [
+                        "Book shoots with photographers, and photographers can apply to join.",
+                        "Group Project",
+                        "Completed in 5 days",
+                        "Used Netlify for development",
+                        "Used Bootstrap UI for Designing",
+                    ],
+                    tackstack: ["HTMl", "CSS", "Javascript", "Socket.io" ,"Node.js", "Express.js", "MongoBB",
+                    "Redis"],
+                 },
+                // {
+                //     name: "DP-dzines.com",
+                //     dskImg: R,
+                //     mobImg: I,
+                //     github: "https://github.com/daljeet-coder/dpdzines.com",
+                //     website: "https://dpdzines-com.vercel.app/#home",
+                //     features: [
+                //         "DP-dzines Provides Home interior Decoration Services",
+                //         "Individual Project",
+                //         "Completed in 15 days approx",
+                //         "Used React for development",
+                //         "Used CSS and Other Libraryes for Designing",
+                //     ],
+                //     tackstack: ["ReactJS", "CSS3", "npm"],
+                // },
+                // {
+                //     name: "Engagebay - Clone",
+                //     dskImg: z,
+                //     mobImg: L,
+                //     website: "https://gleeful-praline-8d6d79.netlify.app/",
+                //     github: "https://github.com/daljeet-coder/Engagebay-clone",
+                //     features: [
+                //         "Engagebay.com - A Website which Provides solutions for managing and marketing Businesses",
+                //         "Group Project of Team 4 Developers",
+                //         "Completed in 5 days",
+                //         "Used HTML CSS and Javascript for the Development",
+                //         "Used json rest api for Data",
+                //     ],
+                //     tackstack: ["HTML5", "CSS3", "JavaScript"],
+                // },
+                // {
+                //     name: "HotStar - Clone",
+                //     dskImg: F,
+                //     mobImg: H,
+                //     website: "https://ornate-kleicha-56c2f7.netlify.app/",
+                //     github: "https://github.com/daljeet-coder/hotstar-clone",
+                //     features: [
+                //         "Hotstar-clone - In this website we can search for the Movies and their details",
+                //         "Individual Project",
+                //         "Completed in 4 days",
+                //         "Used HTML, CSS and JavaScript",
+                //         "Used Movie API and debouncing",
+                //     ],
+                //     tackstack: ["HTML5", "CSS3", "JavaScript"],
+                // },
+                // {
+                //     name: "MailChimp - Clone",
+                //     dskImg: U,
+                //     mobImg: A,
+                //     website: "https://melodic-pastelito-61a38c.netlify.app/",
+                //     github: "https://github.com/daljeet-coder/mailchimp.com-Clone",
+                //     features: [
+                //         "MailChimp Provides various web Services, web hosting and much more",
+                //         "Individual Project",
+                //         "Completed in 5 days",
+                //         "Used HTML, CSS, ans JavaScript",
+                //     ],
+                //     tackstack: ["HTML5", "CSS3", "JavaScript"],
+                // },
+              ];
             function B(e) {
                 return f({
                     tag: "svg",
